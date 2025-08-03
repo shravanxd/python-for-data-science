@@ -6,7 +6,7 @@ Whether you're just starting out or brushing up before interviews, this course p
 
 ---
 
-## 📘 Course Syllabus
+## Course Syllabus
 
 ### Beginner Level: Python & Data Fundamentals
 
