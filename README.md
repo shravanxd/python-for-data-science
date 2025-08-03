@@ -12,8 +12,6 @@ Whether you're just starting out or brushing up before interviews, this course p
 
 **Objective:** Go from zero programming experience to writing basic Python programs, manipulating data structures, and loading your first real dataset using foundational data science libraries.
 
-- Object Oriented Programming in Python
-
 **Lessons:**
 1. Welcome & Setup  
 2. Python as a Calculator  
